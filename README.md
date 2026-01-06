@@ -76,7 +76,8 @@ In high-stakes domains such as healthcare, silent model failures can lead to unn
 ## Repository Structure
 - `uncertainty_aware_evaluation.ipynb` – main analysis notebook
 - `ETHICAL_SCOPE.md` – ethical scope and usage boundaries
-- `docs/` – results summaries and figures (to be added)
+- `dashboard` – results - [https://public.tableau.com/views/Uncertainty-AwareEvaluationofHealthcareML-2/BI?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
+)
 
 ---
 
