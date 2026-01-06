@@ -68,14 +68,15 @@ In high-stakes domains such as healthcare, silent model failures can lead to unn
 * It does **not** provide medical diagnosis or treatment recommendations
 * ML is treated as decision-support, not a decision-maker
 * Clinical judgment and human oversight take precedence in uncertain or high-risk cases
+  
+📄 Ethical considerations and usage boundaries are documented in `ETHICAL_SCOPE.md`.
 
 ---
 
 ## Repository Structure
-
-* `notebooks/` – analysis and experiments
-* `data/` – references to public datasets (not included)
-* `docs/` – results summaries and figures (optional)
+- `uncertainty_aware_evaluation.ipynb` – main analysis notebook
+- `ETHICAL_SCOPE.md` – ethical scope and usage boundaries
+- `docs/` – results summaries and figures (to be added)
 
 ---
 
