@@ -3,6 +3,7 @@
 - Problem
 Healthcare models report high overall accuracy but fail to identify where predictions break down, creating hidden risk in critical decisions.
 
+⸻
 
 - Approach
 Developed a risk-based evaluation framework to segment predictions into low, moderate, and high-risk zones based on instability and model disagreement.
