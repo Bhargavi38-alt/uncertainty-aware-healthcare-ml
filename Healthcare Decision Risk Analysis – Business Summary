@@ -1,0 +1,31 @@
+## Healthcare Decision Risk Analysis – Business Summary
+
+- Problem
+Healthcare models report high overall accuracy but fail to identify where predictions break down, creating hidden risk in critical decisions.
+
+
+- Approach
+Developed a risk-based evaluation framework to segment predictions into low, moderate, and high-risk zones based on instability and model disagreement.
+
+⸻
+
+- Impact
+	•	Identified moderate-risk segment with highest error rate (23.9%), compared to:
+	•	High-risk: 18.2%
+	•	Low-risk: 5.3%
+	•	Detected false negatives concentrated in moderate-risk cases (~10.9%), indicating hidden failure zones
+	•	Enabled targeted human review instead of blanket automation, improving decision safety
+
+⸻
+
+## Key Insight
+	•	Highest errors are not in obvious high-risk zones, but in moderate-risk segments
+	•	Model reliability varies significantly across segments despite strong overall performance
+	•	Segment-level evaluation is critical for safe deployment
+
+⸻
+
+## Business Relevance
+	•	Supports risk-based intervention strategies in healthcare analytics
+	•	Reduces likelihood of missed critical cases (false negatives)
+	•	Enables responsible AI adoption with human-in-the-loop decision systems
